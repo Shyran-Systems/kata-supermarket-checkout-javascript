@@ -1,3 +1,3 @@
 const chai = require('chai');
 
-module.exports = chai.expect;
+module.exports.expect = chai.expect;
